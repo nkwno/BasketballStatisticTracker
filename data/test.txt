@@ -1,0 +1,53 @@
+{
+    "teams": [{
+        "teamName": "Packers",
+        "listOfPlayers": [{
+            "rebounds": 0,
+            "fouls": 0,
+            "twoPointAttempts": 0,
+            "points": 0,
+            "currentGameStats": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "freeThrowAttempts": 0,
+            "assists": 0,
+            "threePointAttempts": 0,
+            "gamesPlayed": 0,
+            "stats": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "name": "Player1",
+            "threePointersMade": 0,
+            "freeThrowsMade": 0,
+            "twoPointersMade": 0
+        }],
+        "listOfGames": []
+    }],
+    "name": "Nao"
+}

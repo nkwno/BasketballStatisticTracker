@@ -1,0 +1,89 @@
+{
+  "name": "Nao",
+  "teams": [
+    {
+      "teamName": "packers",
+      "listOfPlayers": [
+        {
+          "name": "player1",
+          "points": "3",
+          "rebounds": "3",
+          "assists": "3",
+          "threePointersMade": "1",
+          "threePointAttempts": "1",
+          "freeThrowsMade": "0",
+          "freeThrowAttempts": "3",
+          "twoPointersMade": "0",
+          "twoPointAttempts": "0",
+          "fouls": "3",
+          "gamesPlayed": "3",
+          "stats": [3.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,100.0,0.0,3.0,0.0,3.0,1.0],
+          "currentGameStats": [1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,100.0,0.0,3.0,0.0,3.0]
+        },
+        {
+          "name": "player2",
+          "points": "3",
+          "rebounds": "3",
+          "assists": "3",
+          "threePointersMade": "1",
+          "threePointAttempts": "1",
+          "freeThrowsMade": "0",
+          "freeThrowAttempts": "3",
+          "twoPointersMade": "0",
+          "twoPointAttempts": "0",
+          "fouls": "3",
+          "gamesPlayed": "3",
+          "stats": ["3","1","1","1","0","0","0.00","1","1","100.00","0","3","0.00","3","1"],
+          "currentGameStats": ["1","1","1","0","0","0.00","1","1","100.00","0","3","0.00","3"]
+        }
+      ],
+      "listOfGames": [
+        {
+          "opponent": "testOpponent",
+          "players": [
+            {
+              "name": "playerTest",
+              "points": "3",
+              "rebounds": "3",
+              "assists": "3",
+              "threePointersMade": "1",
+              "threePointAttempts": "1",
+              "freeThrowsMade": "0",
+              "freeThrowAttempts": "3",
+              "twoPointersMade": "0",
+              "twoPointAttempts": "0",
+              "fouls": "3",
+              "gamesPlayed": "3",
+              "stats": ["3","1","1","1","0","0","0.00","1","1","100.00","0","3","0.00","3","1"],
+              "currentGameStats": ["1","1","1","0","0","0.00","1","1","100.00","0","3","0.00","3"]
+            },
+            {
+              "name": "playerTest2",
+              "points": "3",
+              "rebounds": "3",
+              "assists": "3",
+              "threePointersMade": "1",
+              "threePointAttempts": "1",
+              "freeThrowsMade": "0",
+              "freeThrowAttempts": "3",
+              "twoPointersMade": "0",
+              "twoPointAttempts": "0",
+              "fouls": "3",
+              "gamesPlayed": "3",
+              "stats": ["3","1","1","1","0","0","0.00","1","1","100.00","0","3","0.00","3","1"],
+              "currentGameStats": ["1","1","1","0","0","0.00","1","1","100.00","0","3","0.00","3"]
+            }
+          ],
+          "statSheet": [
+            ["1","1","1","0","0","0.00","1","1","100.00","0","3","0.00","3"],
+            ["1","1","1","0","0","0.00","1","1","100.00","0","3","0.00","3"]
+          ],
+          "finalScore": "9-9"
+        }
+
+      ]
+    }
+
+
+  ]
+}

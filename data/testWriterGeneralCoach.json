@@ -1,0 +1,124 @@
+{
+    "teams": [
+        {
+            "teamName": "testTeam1",
+            "listOfPlayers": [{
+                "rebounds": 0,
+                "fouls": 1,
+                "twoPointAttempts": 0,
+                "points": 3,
+                "currentGameStats": [
+                    3,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ],
+                "freeThrowAttempts": 0,
+                "assists": 0,
+                "threePointAttempts": 0,
+                "gamesPlayed": 0,
+                "stats": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "name": "testPlayer",
+                "threePointersMade": 0,
+                "freeThrowsMade": 1,
+                "twoPointersMade": 0
+            }],
+            "listOfGames": [{
+                "finalScore": "9-9",
+                "players": [{
+                    "rebounds": 0,
+                    "fouls": 1,
+                    "twoPointAttempts": 0,
+                    "points": 3,
+                    "currentGameStats": [
+                        3,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        1
+                    ],
+                    "freeThrowAttempts": 0,
+                    "assists": 0,
+                    "threePointAttempts": 0,
+                    "gamesPlayed": 0,
+                    "stats": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "name": "testPlayer",
+                    "threePointersMade": 0,
+                    "freeThrowsMade": 1,
+                    "twoPointersMade": 0
+                }],
+                "opponent": "testOpponent",
+                "statSheet": [[
+                    3,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1
+                ]]
+            }]
+        },
+        {
+            "teamName": "testTeam1",
+            "listOfPlayers": [],
+            "listOfGames": []
+        }
+    ],
+    "name": "testCoach"
+}
